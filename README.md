@@ -14,6 +14,9 @@ It includes both a preventative fix for saves that have not encountered the bug 
 > [!CAUTION]
 > Using `-dev` mode disables achievements. Remove the launch option to re-enable them.
 
+> [!CAUTION]
+> On the SubReddit, someone did have an issue with achievements not re-enabling after removing `-dev` mode. I haven't checked if it's the case, just be cautious.
+
 5. Close the **Properties** window.
 6. Right-click the game, then select **Manage > Browse local files**.
 
