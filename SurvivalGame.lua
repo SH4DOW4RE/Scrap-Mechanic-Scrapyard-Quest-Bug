@@ -280,7 +280,7 @@ function SurvivalGame.bindChatCommands( self )
 		sm.game.bindChatCommand( "/noaggro", { { "bool", "enable", true } }, "cl_onChatCommand", "Toggles the player as a target" )
 		sm.game.bindChatCommand( "/exportmultishape", {}, "cl_onChatCommand", "Exports a blueprint shape file" )
 		
-		sm.game.bindChatCommand( "/quest_debug", {}, "cl_onChatCommand", "Quest Debug" )
+		sm.game.bindChatCommand( "/quest_bug_unlock", {}, "cl_onChatCommand", "Quest Debug" )
 
 
 
